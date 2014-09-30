@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tzip (0.1.1)
+    tzip (0.2.0)
       activesupport (>= 2.3)
 
 GEM
